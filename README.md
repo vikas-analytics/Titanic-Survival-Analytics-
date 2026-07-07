@@ -135,3 +135,5 @@ Titanic-Survival-Analysis-PowerBI
 Vikas Chaurasiya
 Mumbai University
 
+The Titanic Dashboard Preview can be Seen here
+https://github.com/vikas-analytics/Titanic-Survival-Analytics-/blob/main/Titanic%20survival%20Dashboard%20preview.png
