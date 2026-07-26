@@ -107,15 +107,7 @@ Titanic-Survival-Analysis-PowerBI
 
 │
 
-├── Images
 
-│ └── Dashboard.png
-
-│
-
-└── README.md
-
----
 
 ## ⭐ Skills Demonstrated
 
