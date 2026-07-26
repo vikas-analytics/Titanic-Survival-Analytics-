@@ -97,9 +97,7 @@ Titanic-Survival-Analysis-PowerBI
 
 ├── Dataset
 
-│ └── titanic.csv
 
-│
 
 
 
