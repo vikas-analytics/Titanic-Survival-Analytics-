@@ -91,9 +91,7 @@ Dataset includes:
 
 ## 📁 Project Structure
 
-Titanic-Survival-Analysis-PowerBI
 
-│
 
 
 
