@@ -103,9 +103,7 @@ Titanic-Survival-Analysis-PowerBI
 
 ├── Dashboard
 
-│ └── Titanic Dashboard.pbix
 
-│
 
 
 
