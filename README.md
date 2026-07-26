@@ -81,27 +81,6 @@ Dataset includes:
 - Young adults formed the largest passenger group.
 - Third-class passengers experienced the highest mortality.
 
----
-
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## ⭐ Skills Demonstrated
 
